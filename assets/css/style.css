@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto',  !important;
+}
+
+.btn-green{
+    color: white;
+    background: #61CE70;
+}
+.btn-green:hover{
+    color: white;
+    background: #61CE70;
+}
+.active{
+    color: white;
+    background: #61CE70;
+}
+.logo{
+    width: 100px;
+}
